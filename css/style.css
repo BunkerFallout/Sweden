@@ -37,4 +37,15 @@ margin-bottom: 1rem
     font-size: medium;
     border-radius:100%;
     display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery{
+    background-color:bisque ;
+
+}
+
+.gallery{
+    border-radius: 5%;
 }
