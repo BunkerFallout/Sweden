@@ -24,3 +24,17 @@ font-family:"Oswald, sans-serif;"
     padding-left: 2rem;
 margin-bottom: 1rem
 }
+
+.feature{
+    color:black;
+    font-size:larger;
+}
+
+.icon{
+    color:azure;
+    height: 5rem;
+    width:5rem;
+    font-size: medium;
+    border-radius:100%;
+    display: inline-flex;
+}
